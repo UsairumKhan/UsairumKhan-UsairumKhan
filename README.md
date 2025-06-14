@@ -16,13 +16,13 @@ Currently sharpening my skills in algorithms and system design.
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="usairumkhan999@gmail.com">
+  <a href="mailto:usairumkhan999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat\&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/Usairum Khan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://kaggle.com/yourprofile">
+  <a href="https://kaggle.com/Usairum Khan">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
   </a>
   <a href="https://usairumkhan.github.io/portfolio">
